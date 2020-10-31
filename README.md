@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 - [X] User can view comments on a post. (3pts)
 - [X] User can add a new comment. (5pts)
 
-The following **bonus** features are implemented:
+The following **bonus** features are implemented: 
 
 - [ ] User can add a profile picture. (2pts)
 - [ ] Profile pictures are shown for posts and comments. (2pts)
